@@ -1,0 +1,44 @@
+#quotearea {
+font-family: 'Times New Roman', Georgia, serif;
+  font-style: italic; 
+   color:#444;
+   /* background: #f3f3f3; */
+ height: 85px;
+ width: 390px;
+padding-top:10px;
+}
+
+
+
+#quoterotator {
+   height: 80px;
+   line-height: 135%;
+}
+#quoteauthor {
+   display: block;
+   color:#333;
+   text-align: right;
+   font-weight: bold;
+   font-style: italic;
+}
+
+#quotearea ul {
+	list-style-type:none;
+}
+
+#quotearea ul a {
+  text-decoration:none;
+  color:#333;
+}
+
+
+#headquote ul {
+	list-style-type:none;
+}
+
+#headquote ul a {
+  text-decoration:none;
+  color:#333;
+}
+
+
